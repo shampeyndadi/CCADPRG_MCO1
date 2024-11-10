@@ -1,3 +1,9 @@
+// ********************
+// Last names: Julian
+// Language: Kotlin
+// Paradigm(s): Procedural
+// ********************
+
 import java.util.Scanner
 import java.util.InputMismatchException
 
